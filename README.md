@@ -12,8 +12,6 @@ Email：6465660@qq.com
 
 微信/Tel：13015406167
 
-语言：JavaScript（JS）
-
 <img src="http://www.sharewaf.com/browserwaf/me.jpg" style="max-width:290px;width:100%;"/><br>
 
 # 简介
