@@ -1,0 +1,4 @@
+LIBRARY "OnTimeProtect"
+EXPORTS
+OnTimeProtectON
+OnTimeProtectOFF
