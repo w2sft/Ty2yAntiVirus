@@ -6,7 +6,7 @@
 专业的、正二八经的杀毒软件。
 
 # Auther
-王二狗（WangErGou）
+WangLiwen
 
 Email：6465660@qq.com
 
