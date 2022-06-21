@@ -12,7 +12,6 @@ Email：6465660@qq.com
 
 微信/Tel：13015406167
 
-<img src="http://www.sharewaf.com/browserwaf/me.jpg" style="max-width:290px;width:100%;"/><br>
 
 # 简介
 小巧易用、简单轻便的杀毒软件。
@@ -33,10 +32,7 @@ Email：6465660@qq.com
 * 源码：VB6（-_-!） & VC（DLL部分、使用VS2010编译）。
 * 这里只是源码，没有带病毒库及其它文件，到官网下载安装软件后即可获取其它所缺外部文件。
 * DLL编译依赖minhook。
-
-# 捐助
-<img src="http://www.sharewaf.com/browserwaf/mei_ye.jpg" style="max-width:634px;width:100%;"/>
-
-<img src="http://www.sharewaf.com/browserwaf/wx.jpg" style="max-width:522px;width:100%;"/>
+* 开源类型：GPL
+* 仅限技术研究，如商用请联系我们获取授权，否则将依法追究相关责任。
 
 谢谢
