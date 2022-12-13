@@ -1,7 +1,7 @@
 # Ty2yAntiVirus
 开源杀毒软件
 
-官网：http://ty2y.com/ty2yantivirus.html
+官网：https://www.fairysoftware.com/
 
 专业的、正二八经的杀毒软件。
 
@@ -25,8 +25,6 @@ Email：6465660@qq.com
 还有众多轻便功能，如：开机自启、病毒库自动更新、三种不同扫描模式。
 
 <img src="http://ty2y.com/images/screen/ty2y_antivirus_screen_03.jpg" style="max-width:290px;width:100%;"/><br>
-
-<img src="http://ty2y.com/images/screen/ty2y_antivirus_2019_2.jpg" style="max-width:290px;width:100%;"/><br>
 
 # 其它说明
 * 源码：VB6（-_-!） & VC（DLL部分、使用VS2010编译）。
