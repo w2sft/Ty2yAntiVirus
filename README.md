@@ -16,8 +16,6 @@
 
 还有众多轻便功能，如：开机自启、病毒库自动更新、三种不同扫描模式。
 
-<img src="http://ty2y.com/images/screen/ty2y_antivirus_screen_03.jpg" style="max-width:290px;width:100%;"/><br>
-
 # 其它说明
 * 源码：VB6（-_-!） & VC（DLL部分、使用VS2010编译）。
 * 这里只是源码，没有带病毒库及其它文件，到官网下载安装软件后即可获取其它所缺外部文件。
